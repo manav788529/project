@@ -1,0 +1,86 @@
+﻿Doctor Specialist,Name,Experience,Location,Average Fee
+Dermatologist,Dr. Sonal Chavan,17 years  ,Pimple Saudagar,₹ 700
+Dermatologist,Dr. Hina Kherajani,21 years  ,Pimple Saudagar,₹ 700
+Dermatologist,Dr. Vijay Nagdev,13 years  ,Pimpri-Chinchwad,₹ 700
+Dermatologist,Dr. Nitin Jain,21 years  ,Kothrud,₹ 700
+Dermatologist,Dr. Pradeep Kumari,20 years  ,Viman Nagar,₹ 700
+Allergist,Dr. Himanshi Chaudhary,8 years  ,Sangamvadi,"₹ 1,200"
+Allergist,Dr. Himanshu Bapat,37 years  ,Prabhat Road,₹ 700
+Allergist,Dr. Khushi kumar,10 years  ,Kothrud,₹ 800
+Allergist,Dr. Shristi Pawar,15 years  ,Kondhwa,₹ 900
+Allergist,Dr. Shruti Shinde,20 years  ,Pimpri,"₹ 1,000"
+Gastroenterologist,Dr. Sandeep S. Kulkarni,20 years  ,"Deccan Gymkhana, Pune",₹ 750
+Gastroenterologist,Dr. Rahul Kothari,19 years  ,"Aundh, Pune",₹ 800
+Gastroenterologist,Dr. Nitin Pai,28 years  ,"Shivajinagar, Pune","₹ 1,000"
+Gastroenterologist,Dr. Mrunmaya Panda,16 years  ,"Pimpri-Chinchwad, Pune","₹ 1,250"
+Gastroenterologist,Dr. Sunil Pawar,12 years  ,"Kharadi, Pune",₹ 850
+Hepatologist,Dr. Lalit Shimpi,21 years  ,Civil court,₹ 700
+Hepatologist,Dr. Prasad Bhate,11 years  ,Camp,₹ 700
+Hepatologist,Dr. Sachin Palnitkar,19 years  ,Magarpatta,₹ 700
+Hepatologist,Dr. D.G. Dipankar,22 years  ,Pune,₹ 700
+Hepatologist,Dr. Mrunmaya Kumar Panda,16 years  ,Kondhwa,₹ 700
+Osteopathic,Dr. Vinayak Dendge,11 years  ,"Shivajinagar, Pune",₹ 700
+Osteopathic,Dr. XYZ1,10 years ,"Kothrud, Pune",₹ 800
+Osteopathic,Dr. ABC1,15 years ,"Kondhwa, Pune",₹ 900
+Osteopathic,Dr. PQR1,20 years ,"Pimpri, Pune","₹ 1,000"
+Osteopathic,Dr. LMN1,25 years ,"Viman Nagar, Pune","₹ 1,100"
+Endocrinologist,Dr. Uday Phadke,37 years  ,"Kothrud, Pune","₹ 1,500"
+Endocrinologist,Dr. Harshal Ekatpure,14 years  ,"Dhole Patil Road, Pune","₹ 1,200"
+Endocrinologist,Dr. Piyush Lodha,10 years  ,"Swargate, Pune",₹ 800
+Endocrinologist,Dr. A G Unnikrishnan,20 years  ,"Bavdhan, Pune","₹ 1,400"
+Endocrinologist,Dr. Vinayak Harale,11 years  ,"Akurdi, Pune",₹ 700
+Pulmonologist,Dr. Milind Kulkarni,18 years  ,"Vishrantwadi, Pune",₹ 600
+Pulmonologist,Dr. Nagesh Dhadge,23 years  ,"Baner, Pune",₹ 550
+Pulmonologist,Dr. Kunjir Nana Gokul,17 years  ,"Hadapsar, Pune",₹ 800
+Pulmonologist,Dr. Kulkarni Ajit,23 years  ,"Deccan Gymkhana, Pune",₹ 750
+Pulmonologist,Dr. Ashok B,19 years  ,"Kalyani Nagar, Pune",₹ 800
+Cardiologist ,Dr. Rahul Patil,24 years  ,"Kothrud, Pune",₹ 800
+Cardiologist ,Dr. Dnyaneshwar Gawre,38 years  ,"Kalyani Nagar, Pune","₹ 1,000"
+Cardiologist ,Dr. Abhijit Palshikar,26 years  ,"Deccan Gymkhana, Pune",₹ 750
+Cardiologist ,Dr. Kedar Kulkarni,21 years  ,"Hadapsar, Pune",₹ 600
+Cardiologist ,Dr. Abhijeet Joshi,33 years  ,"Shivajinagar, Pune","₹ 1,000"
+Neurologist,Dr. Rajani Amin,34 years  ,"Camp, Pune",₹ 700
+Neurologist,Dr. Nasli R Ichaporia,44 years  ,"Camp, Pune",₹ 700
+Neurologist,Dr. Hemant Sant,34 years  ,"Baner, Pune",₹ 700
+Neurologist,Dr. Shalesh Rohatgi,29 years  ,"Nibm, Pune",₹ 700
+Neurologist,Dr. Rajas Deshpande,29 years  ,"Baner, Pune",₹ 700
+Internal Medcine,Dr. Rahul Doshi,27 years  ,"Balewadi, Pune",₹ 500
+Internal Medcine,Dr. Gaurav Chaudhary,14 years  ,"Wakad, Pune",₹ 350
+Internal Medcine,Dr. Aniket Oswal,9 years  ,Pune,₹ 400
+Internal Medcine,Dr. Sanjeev Bakshi,45 years  ,"Karve Road, Pune",₹ 800
+Internal Medcine,Dr. Amol Hartalkar,25 years  ,Pune,₹ 500
+Pediatrician,Dr. Pralhad Pote,43 years  ,"Hadapsar, Pune",₹ 800
+Pediatrician,Dr. Dhekne Jagadish V,41 years  ,"Nigdi, Pune",₹ 700
+Pediatrician,Dr. Gopal Samdani,40 years  ,"Pimple Saudagar, Pune",₹ 700
+Pediatrician,Dr. Dilip V.salunke,39 years  ,"Wadgaon Sheri, Pune",₹ 700
+Pediatrician,Dr. Pramod Jog,38 years  ,"Pimpri-Chinchwad, Pune",₹ 750
+Common Cold,Dr. Milind Kulkarni,18 years  ,"Vishrantwadi, Pune",₹ 600
+Common Cold,Dr. (Colonel) A.K Mehta,41 years  ,"Magarpatta City, Pune",₹ 600
+Common Cold,Dr. Jyoti Gulati ,38 years  ,"Aundh, Pune","₹ 1,000"
+Common Cold,Dr. Vinod Midha ,39 years  ,"Viman Nagar, Pune",₹ 500
+Common Cold,Dr. Dipak Giri ,15 years  ,"Wagholi, Pune",₹ 500
+Phlebologist,Dr. Bharat Parhdi,10 years  ,"Kothrud, Pune",₹ 800
+Phlebologist,Dr. Yash Chaubey,15 years  ,"Kondhwa, Pune",₹ 900
+Phlebologist,Dr. Aman Ganhdi,20 years  ,"Pimpri, Pune","₹ 1,000"
+Phlebologist,Dr. Varun Mishra,25 years  ,"Viman Nagar, Pune","₹ 1,100"
+Phlebologist,Dr. Akash chopra,30 years  ,"Chinchwad, Pune","₹ 1,200"
+Osteoarthristis,Dr. Rahul Chaudhari ,21 years  ,"Shivajinagar, Pune",₹ 800
+Osteoarthristis,Dr. Amit R. Kale ,25 years  ,"Aundh, Pune",₹ 700
+Osteoarthristis,Dr. Aashish Arbat ,18 years  ,"Shivajinagar, Pune",₹ 700
+Osteoarthristis,Dr. Deokate Pravin Dadasaheb ,19 years  ,"Pimple Saudagar, Pune",₹ 700
+Osteoarthristis,Dr. Santosh Teli ,19 years  ,"Wakad, Pune",₹ 700
+Rheumatologists,Dr. Nilesh S.Patil ,23 years  ,Pune,₹ 800
+Rheumatologists,Dr. Pravin Patil1,19 years  ,Pune,₹ 800
+Rheumatologists,Dr. Ajit Nalawade ,24 years  ,Pune,₹ 800
+Rheumatologists,Dr. Aniruddha Tembe ,38 years  ,Pune,₹ 800
+Rheumatologists,Dr. Sameer Sahay ,26 years  ,Pune,₹ 800
+Otolaryngologist,Dr. Ajay Kothadiya ,30 years  ,"Shivajinagar, Pune",₹ 600
+Otolaryngologist,Dr. Dushyant Khedikar ,22 years  ,"Wakad, Pune",₹ 500
+Otolaryngologist,Dr. Sarika Sonawane ,16 years  ,"Baner, Pune",₹ 600
+Otolaryngologist,Dr. Pranita Bauskar ,18 years  ,"Satara Road, Pune",₹ 500
+Otolaryngologist,Dr. Sarang Deshmukh ,24 years  ,"Kharadi, Pune",₹ 500
+Gynecologist,Dr. Preeti Kale ,23 years  ,"Aundh, Pune",₹ 700
+Gynecologist,Dr. Vinod Bharati ,21 years  ,"Kharadi, Pune",₹ 700
+Gynecologist,Dr. Neena Sathe ,39 years  ,"Pimple Saudagar, Pune","₹ 1,000"
+Gynecologist,Dr. Amit M Shah ,18 years  ,"Salunke Vihar, Pune",₹ 500
+Gynecologist,Dr. Kedar Marathe ,18 years  ,"Pimple Saudagar, Pune","₹ 1,000"
